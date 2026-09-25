@@ -231,14 +231,3 @@ section h2::after {
     object-fit: cover;
 }
 
-.hero-image{
-    flex:1;
-}
-
-.hero-image img {
-    width: 100%;
-    max-width: 450px;
-    border-radius: 12px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.03);
-    display: block;
-}
